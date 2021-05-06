@@ -1,6 +1,6 @@
 ### Hi there 🤘
 
-My name is Lucas Pitta from Brazil 🇧🇷. I've been working as a developer since 2011 and currently I'm working at [Somos Educação](https://www.somoseducacao.com.br/) on [Plurall](https://www.plurall.net/).
+My name is Lucas Pitta from Brazil 🇧🇷. I've been working as a developer since 2011 and currently I'm working at [Olist](https://olist.com/)!
 
 In my free time I like to cook (👨‍🍳), to play with my kids (👦👧), to watch movies (🎞️) and series (📺) and play some video games (🎮)
 
